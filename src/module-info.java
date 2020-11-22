@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mikael
+ *
+ */
+module IamLoggerEx {
+}
